@@ -1,7 +1,33 @@
-<h1>Hello! I'm Hüseyin Karakurt 👋🏼</h1>
-<p>I actively work on projects in web development, mobile app creation, and graphic design. I develop robust websites using HTML and PHP, and create user-friendly designs with Adobe XD and Figma. While building mobile apps with Flutter and Dart, I also create creative graphic designs using Adobe Illustrator, Photoshop, and XD. Coding and design are a journey for me, and I love discovering more with every new project. Don’t forget to check out my projects on my GitHub profile!</p>
+🚀 Senior Full-Stack Developer & Software Architect
+Since 2016, I have been working in the software industry as a Senior Full-Stack Developer who takes projects from the initial idea stage and builds them end-to-end—from technical documentation to system, database, and API architecture. I make it a strict principle never to deliver a project until the highest level of performance optimization is complete and it is 100% ready for production.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+🛠️ Technical Expertise & Tech Stack
+Backend & Frontend: JavaScript (Node.js), C#, PHP, Python | Angular, Alpine.js, HTML, Bootstrap
 
-![github-snake](https://github.com/user-attachments/assets/83718c27-4554-479f-a55e-4c5ad27d42bd)
+Architecture & API: Advanced API Design (RESTful / SOAP), Microservices Communication, and Integrations
+
+Database & Security: SQL, Dual Database Architecture (Replication / Read-Write Separation), Google 2FA, Custom URL & Reverse Routing/Masking, IP-Restricted Access Control (ACL)
+
+Communication & IoT: WebRTC (Real-time solutions), Payment Gateway Integrations, NFC & RF Technologies
+
+💼 Corporate Experience & Featured Projects
+As a co-founder and lead technical architect at Zamanhost and Letuva, as well as through independent initiatives, I have built, coded, and optimized a wide range of products from scratch:
+
+Platform & CRM: Comprehensive Enterprise CRM & Billing Systems (similar to WiseCP), SMM Panels, and scalable E-Commerce infrastructures.
+
+Systems & Real-Time: Discord-like WebRTC voice/text messaging applications, Web Terminal (Putty-like browser interface), and PHP Licensing + Embedded Encryption systems.
+
+IoT & Hardware: Custom NFC/RF-based hardware-integrated software and Digital Barcode Systems.
+
+Gaming Industry: Game Server Management Panels and custom embedded Plugin architectures for gaming servers.
+
+Industry-Specific Solutions: Digital Business Card Platforms, Digital Routing Systems, and Digital Question Bank Platforms.
+
+🤝 Let's Launch Your Project Together
+Whether it is a project you are dreaming of or aiming to deploy, we can transform it into reality together—from the initial analysis phase to a high-security, dual-database-backed, and fully optimized live launch.
+
+Get in touch today to kickstart a new project with me:
+
+✉️ Email: hseyinkarakurt20@gmail.com
+
+📸 Instagram: hseyinkarakurt
