@@ -1,33 +1,30 @@
-🚀 Senior Full-Stack Developer & Software Architect
-Since 2016, I have been working in the software industry as a Senior Full-Stack Developer who takes projects from the initial idea stage and builds them end-to-end—from technical documentation to system, database, and API architecture. I make it a strict principle never to deliver a project until the highest level of performance optimization is complete and it is 100% ready for production.
+Hello, I am Hüseyin Karakurt. Since 2015, I have been working in the software, systems, and IT sector as a Full-Stack Developer. I specialize in taking projects from the initial conceptual stage and developing them end-to-end—covering everything from technical documentation and databases to API architecture, as well as mobile and gaming platforms. It is my professional principle never to deliver a project until I have completed high-level performance optimizations and ensured it is fully ready for a live production environment. 🛠️ Technical Expertise & Tech Stack
+Programming Languages: C#, C++, PHP, Python, JavaScript (Node.js), Dart
 
-🛠️ Technical Expertise & Tech Stack
-Backend & Frontend: JavaScript (Node.js), C#, PHP, Python | Angular, Alpine.js, HTML, Bootstrap
+Frameworks & Libraries: Flutter, Angular, Alpine.js, Bootstrap
 
-Architecture & API: Advanced API Design (RESTful / SOAP), Microservices Communication, and Integrations
+UI/UX & Graphic Design: Professional UI/UX interface design; corporate identity, logo, and graphic design work since 2015
 
-Database & Security: SQL, Dual Database Architecture (Replication / Read-Write Separation), Google 2FA, Custom URL & Reverse Routing/Masking, IP-Restricted Access Control (ACL)
+Mobile & Game Development: Cross-platform mobile applications with Firebase integration, 2D/3D game projects, and custom Game Launcher interface architectures
 
-Communication & IoT: WebRTC (Real-time solutions), Payment Gateway Integrations, NFC & RF Technologies
+Architectures & APIs: Advanced API Design (RESTful / SOAP), Microservices Communication, and Integrations
 
-💼 Corporate Experience & Featured Projects
-As a co-founder and lead technical architect at Zamanhost and Letuva, as well as through independent initiatives, I have built, coded, and optimized a wide range of products from scratch:
+Database & Security: SQL, Dual Database Architecture (Replication), Google 2FA, Custom URL & Reverse Routing, IP-restricted Access (ACL), and Encryption Systems
 
-Platform & CRM: Comprehensive Enterprise CRM & Billing Systems (similar to WiseCP), SMM Panels, and scalable E-Commerce infrastructures.
+Systems, Hardware & Infrastructure: Hosting services, cPanel and dedicated server (rack-mount) deployment, operating system management, hardware troubleshooting, and security camera/network systems (CCTV)
 
-Systems & Real-Time: Discord-like WebRTC voice/text messaging applications, Web Terminal (Putty-like browser interface), and PHP Licensing + Embedded Encryption systems.
+💼 Corporate Experience & Key Projects: Projects designed, coded, and optimized from the ground up within Zamanhost and Letuva—companies I co-founded—include:
 
-IoT & Hardware: Custom NFC/RF-based hardware-integrated software and Digital Barcode Systems.
+Platforms & CRM: Enterprise CRM and billing systems (similar to WiseCP), SMM panels, and e-commerce infrastructures.
 
-Gaming Industry: Game Server Management Panels and custom embedded Plugin architectures for gaming servers.
+Systems & Real-Time: WebRTC-based voice/text messaging systems (similar to Discord), web-based terminals (similar to PuTTY), PHP licensing, and embedded encryption.
 
-Industry-Specific Solutions: Digital Business Card Platforms, Digital Routing Systems, and Digital Question Bank Platforms.
+IoT & Hardware: Custom NFC/RF-based projects and digital barcode systems. Gaming Sector: Game server management panels, custom gaming-focused web themes, aquarium fish-keeping simulation games, and custom plugin-integrated architectures for game servers.
 
-🤝 Let's Launch Your Project Together
-Whether it is a project you are dreaming of or aiming to deploy, we can transform it into reality together—from the initial analysis phase to a high-security, dual-database-backed, and fully optimized live launch.
+Enterprise/Industry Solutions: Digital business cards, digital routing/navigation systems, and digital question bank platforms.
 
-Get in touch today to kickstart a new project with me:
+🤝 Let’s Launch Your Project Together: Whether it’s software, a mobile application, a game, or an infrastructure project you’ve been dreaming of or planning to develop, we can bring it to life—from the initial analysis phase all the way to a fully optimized, live launch.
 
+Get in touch today to start a new project with me:
 ✉️ Email: hseyinkarakurt20@gmail.com
-
 📸 Instagram: hseyinkarakurt
